@@ -1,2 +1,3 @@
 # website
-Personal profolio van Alberto
+
+Persoonlijke portfolio website in PHP met strak ingestelde `.htaccess`.
